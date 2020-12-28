@@ -1,10 +1,10 @@
 {
   "name": "alexisko.com",
-  "version": "2.0.5",
+  "version": "2.0.12",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "style": "./node_modules/.bin/sass --watch ./src/index.scss ./www/index.css "
+    "style": "./node_modules/.bin/sass --watch ./src/index.scss:./www/index.css "
   },
   "author": {
     "name": "Oded Sharon",

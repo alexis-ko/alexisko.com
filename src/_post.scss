@@ -18,15 +18,21 @@
 
 .post_picture {
 	border: none;
+	margin-bottom: 1rem;
 	order: 0;
 	text-align: center;
 }
 
 .post_image {
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 	max-height: 50vw;
 	max-width: 50vw;
 	object-fit: cover;
+}
+
+.post_image_caption {
+	font-size: 1.2rem;
+	text-align: left;
 }
 
 .post_pubDate {
