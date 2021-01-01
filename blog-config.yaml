@@ -2,7 +2,7 @@ source: src
 target: www
 indexTemplate: src/index-template.html
 postTemplate: src/post-template.html
-overwrite: false
+overwrite: true
 versionFile: package.json
 order: descending
 maxImageDimension: 1000
