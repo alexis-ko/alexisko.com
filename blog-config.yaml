@@ -5,5 +5,5 @@ postTemplate: src/post-template.html
 overwrite: false
 versionFile: package.json
 order: descending
-maxImageDimension: 1000
+maxImageDimension: 700
 execute: git add . && git commit -a -m "💬 blog update `date`" && git push
