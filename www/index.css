@@ -445,6 +445,10 @@ textarea {
   align-items: center;
   display: flex;
   flex-direction: column; }
+  .posts .post_picture {
+    margin: 0; }
+  .posts .post_image_caption {
+    display: none; }
 
 .post {
   align-items: flex-start;
@@ -457,20 +461,27 @@ textarea {
   margin-bottom: 2rem; }
 
 .post_picture {
+  align-self: center;
   border: none;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   order: 0;
   text-align: center; }
 
 .post_image {
-  margin-bottom: 1rem;
-  max-height: 50vw;
-  max-width: 50vw;
+  display: block;
+  margin: 0 auto 2rem;
+  max-height: 75vw;
+  max-width: 75vw;
   object-fit: cover; }
+  @media screen and (min-width: 70rem) {
+    .post_image {
+      max-height: 50vw;
+      max-width: 50vw; } }
 
 .post_image_caption {
   font-size: 1.2rem;
-  text-align: left; }
+  display: inline-block;
+  text-align: center; }
 
 .post_pubDate {
   order: 1;
@@ -481,7 +492,7 @@ textarea {
   font-family: 'Cormorant Garamond', serif;
   font-size: 3rem;
   font-weight: 600;
-  margin: 3rem 0;
+  margin: 1rem 0;
   order: 2; }
 
 .post_tags {
