@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "style": "./node_modules/.bin/sass --watch ./src/index.scss:./www/index.css "
+    "style": "sass --watch ./src/index.scss:./www/index.css "
   },
   "author": {
     "name": "Oded Sharon",
