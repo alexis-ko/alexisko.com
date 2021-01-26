@@ -1,14 +1,11 @@
-.about_intro,
-.about_contact {
-	box-sizing: border-box;
-	padding-left: 11rem;
-	width: 75vw;
-}
-
 .about_intro {
+	box-sizing: border-box;
 	font-size: 1.6rem;
 	margin: 0 auto 5rem;
 	line-height: 3rem;
+	padding-left:5 11rem;
+	width: 58rem;
+
 
 	h2 {
 		font-size: 3rem;
@@ -18,7 +15,7 @@
 }
 
 .about_contact {
-	margin: 0 auto 10rem;
+	margin: 5rem auto 5rem;
 
 	li {
 		line-height: 3rem;
@@ -26,23 +23,27 @@
 }
 
 .cards {
-  display: grid;
-  grid-template-columns: 10rem 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 1rem;
-  grid-template-areas:
-    "title . ."
-		"title . .";
+	-webkit-overflow-scrolling: touch;
+	scroll-snap-type: x mandatory;	
+	display: flex;
+	gap: 10rem;
+	overflow-x: scroll;
 	margin: 1rem auto 5rem;
 	width: 75vw;
 
+	@media screen and (max-width: 1000px) {
+		flex-direction: column;
+
+		.gallery_image {
+			width: 100%;
+		}
+	}
 }
 
-.gallery_title {
-	grid-area: title;
-	font-family: 'Cormorant Garamond', serif;
+.card {
+	scroll-snap-align: start;
 }
 
 .gallery_image {
-	width: 100%;
+	max-height: 60rem;
 }
