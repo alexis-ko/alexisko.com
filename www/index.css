@@ -582,6 +582,12 @@ textarea {
   margin: 6rem 0 7rem;
   line-height: 2rem;
 }
+.post_text ul {
+  list-style: circle;
+}
+.post_text ol {
+  list-style: decimal;
+}
 
 html {
   background-color: white;
