@@ -588,6 +588,25 @@ textarea {
 .post_text ol {
   list-style: decimal;
 }
+.post_text b {
+  font-weight: bold;
+}
+.post_text h1 {
+  font-size: 2rem;
+}
+.post_text h2 {
+  font-size: 1.9rem;
+}
+.post_text h3 {
+  font-size: 1.8rem;
+}
+.post_text h4 {
+  font-size: 1.7rem;
+}
+.post_text h5 {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
 
 html {
   background-color: white;
