@@ -588,6 +588,9 @@ textarea {
 .post_text ol {
   list-style: decimal;
 }
+.post_text ol, .post_text ul {
+  margin: 0.5rem 2rem;
+}
 .post_text strong, .post_text b {
   font-weight: bold;
 }
@@ -606,6 +609,9 @@ textarea {
 .post_text h5 {
   font-size: 1.6rem;
   font-weight: bold;
+}
+.post_text h1, .post_text h2, .post_text h3, .post_text h4, .post_text h5 {
+  margin: 1.5rem 0 0.5rem;
 }
 
 html {

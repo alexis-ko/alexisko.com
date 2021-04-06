@@ -99,6 +99,10 @@
 		list-style: decimal;
 	}
 
+	ol, ul {
+		margin: 0.5rem 2rem;
+	}
+
 	strong, b {
 		font-weight: bold;
 	}
@@ -108,4 +112,7 @@
 	h3 { font-size: 1.8rem; }
 	h4 { font-size: 1.7rem; }
 	h5 { font-size: 1.6rem; font-weight: bold; }
+	h1, h2, h3, h4, h5 {
+		margin: 1.5rem 0 0.5rem
+	}
 }
