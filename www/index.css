@@ -588,7 +588,7 @@ textarea {
 .post_text ol {
   list-style: decimal;
 }
-.post_text b {
+.post_text strong, .post_text b {
   font-weight: bold;
 }
 .post_text h1 {
