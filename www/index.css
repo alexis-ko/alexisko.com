@@ -598,6 +598,9 @@ textarea {
 .post_text em, .post_text i {
   font-style: italic;
 }
+.post_text p {
+  margin: 1rem 0;
+}
 .post_text h1 {
   font-size: 2.4rem;
 }
