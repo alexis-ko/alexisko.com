@@ -1,8 +1,8 @@
-**Stuffed butternut squash**
+###Mushroom and lentil stuffed butternut squash###
 
-It may look difficult, but actually very easy and you can experiment with different combinations of spices, herbs, vegetables or even grains. Even scooping out the squash flesh itself works. In this version I used home grown chestnut mushrooms from [Merryhill Mushrooms](https://www.merryhill-mushrooms.co.uk/store/p5/Merryhill-Mushrooms-Chestnut-mushroom-gift-kit.html), and it turned out gorgeously.
-
-Some filling ideas include:
+It may look difficult, but actually very easy and you can experiment with different combinations of spices, herbs, vegetables or even grains. Even scooping out the squash flesh itself works. In this version I used home grown chestnut mushrooms from [Merryhill Mushrooms](https://www.merryhill-mushrooms.co.uk/store/p5/Merryhill-Mushrooms-Chestnut-mushroom-gift-kit.html), and it turned out gorgeously. 
+<br>
+**Some filling ideas include:**
 * Other or mixed mushroom varieties (shiitake, oyster etc.)
 * Dried cranberries
 * Walnuts
@@ -10,17 +10,17 @@ Some filling ideas include:
 * Feta
 * Quinoa
 * Couscous
-
-I don’t usually cook with recipes, so here are rough amounts for these stuffed butternut squashes.
-
+<br>
+*Note: I don’t usually cook with recipes, so here are rough amounts for these stuffed butternut squashes.*
+<br><br>
 Serves 2 / vegetarian, can be made vegan without cheese or using vegan cheese 
 Cooking time 1hr 30mins, may be quicker if you have a smaller-sized squash
-
-### For the squash
+<br>
+**For the squash**
 1 large butternut squash
 2 tbsp. vegetable oil
 
-### For the filling
+**For the filling**
 
 1 small onion, chopped
 
@@ -34,7 +34,7 @@ Cheese of your choice, for sprinkling
 
 Herbs of your choice, for sprinkling
 
-### Butternut squash
+**Butternut squash**
 
 1. Preheat the oven too 200°C / 400°F
 
@@ -46,7 +46,7 @@ Herbs of your choice, for sprinkling
 
 1. Flip the squash to cut-side up and bake for another 20 mins. It depends on your size of squash, but it should be easy to prick with a fork.
 
-### Filling
+**Filling**
 
 1. Meanwhile, prepare the filling. Heat a large frying pan on medium heat (you could use a pot but it means everything is piled on top of one another.) 
 1. Heat the oil in the pan, sauté the onions until slightly soft. 
@@ -55,15 +55,15 @@ Herbs of your choice, for sprinkling
 1. Add salt, pepper and any other seasonings you like.
 1. Set aside
 
-### Assembly
+**Assembly**
 
 1. Once the squash is soft, increase the oven temperature to 220°C / 428°F 
 1. Scoop the filling onto the cut-side of the butternut squash. This recipe makes a lot of filling, so feel free to top the entire surface of the squash or save some for later.
 1. Sprinkle with cheese.
 1. Bake the squash for 5-10 minutes, just until the cheese is golden.
 1. Remove the squash from the oven and sprinkle any fresh herbs if using. In the photo, I used fresh oregano.
-
-### Tips
+<br><br>
+**Tips**
 
 * Quorn mince can be also added frozen, but it obviously it will take longer to cook. 
 * Make sure to rinse the lentils before cooking, to remove any debris. To make 100g cooked lentils, I used 50g dried lentils and about 3 times the amount of water. It takes about 30 or so to cook. Can be done in advance or while you prepare the filling
