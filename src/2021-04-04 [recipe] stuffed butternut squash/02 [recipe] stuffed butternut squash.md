@@ -1,7 +1,7 @@
 ### Mushroom and lentil stuffed butternut squash
 
-It may look difficult, but actually very easy and you can experiment with different combinations of spices, herbs, vegetables or even grains. Even scooping out the squash flesh itself works. In this version I used home grown chestnut mushrooms from [Merryhill Mushrooms](https://www.merryhill-mushrooms.co.uk/store/p5/Merryhill-Mushrooms-Chestnut-mushroom-gift-kit.html), and it turned out gorgeously. 
-
+It may look difficult, but actually very easy and you can experiment with different combinations of spices, herbs, vegetables or even grains. Even scooping out the squash flesh itself works. In this version I used home grown chestnut mushrooms from [Merryhill Mushrooms](https://www.merryhill-mushrooms.co.uk/store/p5/Merryhill-Mushrooms-Chestnut-mushroom-gift-kit.html), and it turned out gorgeously.  
+  
 **Some filling ideas include:**
 * Other or mixed mushroom varieties (shiitake, oyster etc.)
 * Dried cranberries
@@ -9,17 +9,20 @@ It may look difficult, but actually very easy and you can experiment with differ
 * Pine nuts
 * Feta
 * Quinoa
-* Couscous
+* Couscous  
+  
+*Note: I don’t usually cook with recipes, so here are rough amounts for these stuffed butternut squashes.*  
+  
+Serves 2 / vegetarian, can be made vegan without cheese or using vegan cheese  
 
-*Note: I don’t usually cook with recipes, so here are rough amounts for these stuffed butternut squashes.*
-
-
-Serves 2 / vegetarian, can be made vegan without cheese or using vegan cheese 
 Cooking time 1hr 30mins, may be quicker if you have a smaller-sized squash
+  
+  
 
-**For the squash**
+**For the squash**  
+
 1 large butternut squash
-2 tbsp. vegetable oil
+2 tbsp. vegetable oil  
 
 **For the filling**
 
@@ -33,7 +36,7 @@ About 6 large chestnut mushrooms (we used the ones we grew from merry hill mushr
 
 Cheese of your choice, for sprinkling
 
-Herbs of your choice, for sprinkling
+Herbs of your choice, for sprinkling  
 
 **Butternut squash**
 
@@ -45,7 +48,7 @@ Herbs of your choice, for sprinkling
 
 1. Bake the squash cut side down on a lined baking pan, for 15 minutes. 
 
-1. Flip the squash to cut-side up and bake for another 20 mins. It depends on your size of squash, but it should be easy to prick with a fork.
+1. Flip the squash to cut-side up and bake for another 20 mins. It depends on your size of squash, but it should be easy to prick with a fork.  
 
 **Filling**
 
@@ -54,7 +57,7 @@ Herbs of your choice, for sprinkling
 1. Add the mushrooms and fry until just half cooked. They should just be starting to brown
 1. Add the quorn mince and lentils. Continue to fry until everything is nicely coated with the oil.
 1. Add salt, pepper and any other seasonings you like.
-1. Set aside
+1. Set aside  
 
 **Assembly**
 
@@ -62,8 +65,8 @@ Herbs of your choice, for sprinkling
 1. Scoop the filling onto the cut-side of the butternut squash. This recipe makes a lot of filling, so feel free to top the entire surface of the squash or save some for later.
 1. Sprinkle with cheese.
 1. Bake the squash for 5-10 minutes, just until the cheese is golden.
-1. Remove the squash from the oven and sprinkle any fresh herbs if using. In the photo, I used fresh oregano.
-
+1. Remove the squash from the oven and sprinkle any fresh herbs if using. In the photo, I used fresh oregano.  
+  
 
 **Tips**
 
