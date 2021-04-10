@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap");
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0-modified | 20110126
    License: none (public domain)
@@ -593,6 +594,9 @@ textarea {
 }
 .post_text strong, .post_text b {
   font-weight: bold;
+}
+.post_text em, .post_text i {
+  font-style: italic;
 }
 .post_text h1 {
   font-size: 2rem;
