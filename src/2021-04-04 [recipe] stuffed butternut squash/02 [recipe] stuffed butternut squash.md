@@ -15,7 +15,7 @@ It may look difficult, but actually very easy and you can experiment with differ
   
 Serves 2 / vegetarian, can be made vegan without cheese or using vegan cheese  
 
-Cooking time 1hr 30mins, may be quicker if you have a smaller-sized squash
+Cooking time 1hr 30mins, may be quicker if you have a smaller-sized squash  
   
   
 
