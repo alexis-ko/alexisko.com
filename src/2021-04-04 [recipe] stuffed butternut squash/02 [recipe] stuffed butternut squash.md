@@ -1,7 +1,7 @@
-###Mushroom and lentil stuffed butternut squash
+### Mushroom and lentil stuffed butternut squash
 
 It may look difficult, but actually very easy and you can experiment with different combinations of spices, herbs, vegetables or even grains. Even scooping out the squash flesh itself works. In this version I used home grown chestnut mushrooms from [Merryhill Mushrooms](https://www.merryhill-mushrooms.co.uk/store/p5/Merryhill-Mushrooms-Chestnut-mushroom-gift-kit.html), and it turned out gorgeously. 
-<br>
+
 **Some filling ideas include:**
 * Other or mixed mushroom varieties (shiitake, oyster etc.)
 * Dried cranberries
@@ -10,12 +10,13 @@ It may look difficult, but actually very easy and you can experiment with differ
 * Feta
 * Quinoa
 * Couscous
-<br>
+
 *Note: I don’t usually cook with recipes, so here are rough amounts for these stuffed butternut squashes.*
-<br><br>
+
+
 Serves 2 / vegetarian, can be made vegan without cheese or using vegan cheese 
 Cooking time 1hr 30mins, may be quicker if you have a smaller-sized squash
-<br>
+
 **For the squash**
 1 large butternut squash
 2 tbsp. vegetable oil
@@ -62,7 +63,8 @@ Herbs of your choice, for sprinkling
 1. Sprinkle with cheese.
 1. Bake the squash for 5-10 minutes, just until the cheese is golden.
 1. Remove the squash from the oven and sprinkle any fresh herbs if using. In the photo, I used fresh oregano.
-<br><br>
+
+
 **Tips**
 
 * Quorn mince can be also added frozen, but it obviously it will take longer to cook. 
