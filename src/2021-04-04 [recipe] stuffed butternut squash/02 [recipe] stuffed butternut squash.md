@@ -1,4 +1,4 @@
-###Mushroom and lentil stuffed butternut squash###
+###Mushroom and lentil stuffed butternut squash
 
 It may look difficult, but actually very easy and you can experiment with different combinations of spices, herbs, vegetables or even grains. Even scooping out the squash flesh itself works. In this version I used home grown chestnut mushrooms from [Merryhill Mushrooms](https://www.merryhill-mushrooms.co.uk/store/p5/Merryhill-Mushrooms-Chestnut-mushroom-gift-kit.html), and it turned out gorgeously. 
 <br>
